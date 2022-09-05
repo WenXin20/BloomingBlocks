@@ -1,0 +1,44 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "block/redstone_ore",
+		"all_glow": "block/redstone_ore_overlay"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "down"}
+			}
+		},
+		{
+			"from": [-0.1, -0.1, -0.1],
+			"to": [16.1, 16.1, 16.1],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all_glow", "cullface": "north", "tintindex": -101},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#all_glow", "cullface": "east", "tintindex": -101},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all_glow", "cullface": "south", "tintindex": -101},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#all_glow", "cullface": "west", "tintindex": -101},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#all_glow", "cullface": "up", "tintindex": -101},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#all_glow", "cullface": "down", "tintindex": -101}
+			}
+		}
+	],
+	"ctm_version": 1,
+	"ctm_overrides": {
+		"-101": {
+			"type":"normal",
+			"layer":"CUTOUT",
+			"extra": {
+				"light": 15
+			}
+		}
+	}
+}

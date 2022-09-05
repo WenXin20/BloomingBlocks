@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_rail_raised_ne_lit",
+  "textures": {
+    "rail": "minecraft:block/powered_rail_on",
+    "overlay": "minecraft:block/powered_rail_on_overlay"
+  }
+}

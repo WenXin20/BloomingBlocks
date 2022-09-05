@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/rail_flat_lit",
+  "textures": {
+    "rail": "minecraft:block/powered_rail_on",
+    "overlay": "minecraft:block/powered_rail_on_overlay"
+  }
+}

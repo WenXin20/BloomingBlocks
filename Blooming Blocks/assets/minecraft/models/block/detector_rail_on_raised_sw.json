@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_rail_raised_sw_lit",
+  "textures": {
+    "rail": "minecraft:block/detector_rail_on",
+    "overlay": "minecraft:block/detector_rail_on_overlay"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross_lit",
+  "textures": {
+    "cross": "minecraft:block/crimson_fungus",
+    "overlay": "minecraft:block/crimson_fungus_overlay"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/flower_pot_cross_lit",
+  "textures": {
+    "plant": "minecraft:block/warped_fungus",
+    "overlay": "minecraft:block/warped_fungus_overlay"
+  }
+}
