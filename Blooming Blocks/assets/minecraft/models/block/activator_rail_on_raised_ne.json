@@ -1,5 +1,6 @@
 {
   "parent": "minecraft:block/template_rail_raised_ne_lit",
+  "render_type": "cutout",
   "textures": {
     "rail": "minecraft:block/activator_rail_on",
     "overlay": "minecraft:block/activator_rail_on_overlay"

@@ -1,5 +1,6 @@
 {
 	"parent":"block/cube_all",
+    "render_type": "cutout",
 	"textures":{
 		"all":"block/warped_stem",
 		"all_glow":"block/warped_stem_glow"

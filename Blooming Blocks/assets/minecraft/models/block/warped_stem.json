@@ -1,5 +1,6 @@
 {
 	"parent":"block/cube_column",
+    "render_type": "cutout",
 	"textures":{
 		"end":"block/warped_stem_top",
 		"side":"block/warped_stem",

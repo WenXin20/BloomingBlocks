@@ -1,4 +1,6 @@
-{   "parent": "block/block",
+{
+	"parent": "block/block",
+    "render_type": "cutout",
     "display": {
         "head": {
             "rotation": [ -60, 0, 0 ],

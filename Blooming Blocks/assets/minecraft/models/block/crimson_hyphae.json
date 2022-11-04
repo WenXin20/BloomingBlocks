@@ -1,5 +1,6 @@
 {
 	"parent":"block/cube_all",
+    "render_type": "cutout",
 	"textures":{
 		"all":"block/crimson_stem",
 		"all_glow":"block/crimson_stem_glow"

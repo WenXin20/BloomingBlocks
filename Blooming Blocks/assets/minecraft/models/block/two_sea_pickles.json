@@ -1,5 +1,6 @@
 {
     "parent": "block/block",
+    "render_type": "cutout",
     "textures": {
         "particle": "block/sea_pickle",
         "all": "block/sea_pickle"

@@ -1,5 +1,6 @@
 {
   "parent": "minecraft:block/template_candle_lit",
+  "render_type": "cutout",
   "textures": {
     "all": "minecraft:block/brown_candle_lit",
     "particle": "minecraft:block/brown_candle_lit"

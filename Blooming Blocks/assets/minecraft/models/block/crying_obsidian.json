@@ -1,5 +1,6 @@
 {
     "parent": "block/cube_all",
+    "render_type": "cutout",
     "textures": {
         "all": "block/crying_obsidian",
         "all_glow": "block/crying_obsidian_glow"

@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"parent": "block/cube_all",
+    "render_type": "cutout",
 	"textures": {
 		"all": "block/redstone_ore",
 		"all_glow": "block/redstone_ore_overlay"

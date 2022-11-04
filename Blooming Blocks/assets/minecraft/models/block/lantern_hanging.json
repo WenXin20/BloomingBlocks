@@ -1,5 +1,6 @@
 {
   "parent": "minecraft:block/template_hanging_lantern_lit",
+  "render_type": "cutout",
   "textures": {
     "lantern": "minecraft:block/lantern",
     "overlay": "minecraft:block/lantern_overlay"
