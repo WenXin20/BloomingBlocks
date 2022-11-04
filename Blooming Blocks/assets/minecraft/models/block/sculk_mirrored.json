@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_mirrored_all_lit",
+  "textures": {
+    "all": "minecraft:block/sculk",
+    "all_overlay": "minecraft:block/sculk_overlay"
+  }
+}
