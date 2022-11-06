@@ -1,0 +1,7 @@
+{
+    "parent": "block/orientable_with_bottom_lit",
+    "textures": {
+        "bottom": "#top",
+        "bottom_overlay": "#top_overlay"
+    }
+}
