@@ -2,6 +2,6 @@
   "parent": "minecraft:block/cross_lit",
   "textures": {
     "cross": "minecraft:block/warped_fungus",
-    "overlay": "minecraft:block/warped_fungus_overlay"
+    "overlay": "minecraft:block/warped_fungus_glow"
   }
 }

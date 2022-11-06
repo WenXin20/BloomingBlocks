@@ -2,6 +2,6 @@
   "parent": "minecraft:block/flower_pot_cross_lit",
   "textures": {
     "plant": "minecraft:block/crimson_fungus",
-    "overlay": "minecraft:block/crimson_fungus_overlay"
+    "overlay": "minecraft:block/crimson_fungus_glow"
   }
 }

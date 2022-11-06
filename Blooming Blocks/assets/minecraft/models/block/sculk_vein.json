@@ -5,7 +5,7 @@
 	"textures": {
 		"particle": "block/sculk_vein",
 		"sculk_vein": "block/sculk_vein",
-		"sculk_vein_overlay": "block/sculk_vein_overlay"
+		"sculk_vein_overlay": "block/sculk_vein_glow"
 	},
 	"elements": [
 		{

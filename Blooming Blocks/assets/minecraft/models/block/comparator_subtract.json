@@ -8,7 +8,7 @@
 		"top": "block/comparator",
 		"unlit": "block/redstone_torch_off",
 		"lit": "block/redstone_torch",
-		"overlay": "block/redstone_torch_overlay"
+		"overlay": "block/redstone_torch_glow"
 	},
 	"elements": [
 		{

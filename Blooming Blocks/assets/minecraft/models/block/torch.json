@@ -2,6 +2,6 @@
   "parent": "minecraft:block/template_torch_lit",
   "textures": {
     "torch": "minecraft:block/torch",
-	"overlay": "minecraft:block/torch_overlay"
+	"overlay": "minecraft:block/torch_glow"
   }
 }

@@ -8,9 +8,9 @@
 		"side": "block/sculk_sensor_side",
 		"tendrils": "block/sculk_sensor_tendril_inactive",
 		"top": "block/sculk_sensor_top",
-		"bottom_overlay": "block/sculk_sensor_bottom_overlay",
-		"side_overlay": "block/sculk_sensor_side_overlay",
-		"top_overlay": "block/sculk_sensor_top_overlay"
+		"bottom_overlay": "block/sculk_sensor_bottom_glow",
+		"side_overlay": "block/sculk_sensor_side_glow",
+		"top_overlay": "block/sculk_sensor_top_glow"
 	},
 	"elements": [
 		{

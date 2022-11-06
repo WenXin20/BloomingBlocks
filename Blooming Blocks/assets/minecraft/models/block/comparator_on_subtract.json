@@ -7,7 +7,7 @@
 		"particle": "block/comparator",
 		"top": "block/comparator",
 		"lit": "block/redstone_torch",
-		"overlay": "block/redstone_torch_overlay"
+		"overlay": "block/redstone_torch_glow"
 	},
 	"elements": [
 		{

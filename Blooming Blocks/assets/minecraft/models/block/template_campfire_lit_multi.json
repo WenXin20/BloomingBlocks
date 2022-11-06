@@ -124,7 +124,7 @@
 			"textures": {
 				"particle": "block/campfire_log",
 				"log": "block/campfire_log",
-				"lit_overlay": "minecraft:block/campfire_lit_overlay"
+				"lit_overlay": "minecraft:block/campfire_lit_glow"
 			},
 			"elements": [
 				{

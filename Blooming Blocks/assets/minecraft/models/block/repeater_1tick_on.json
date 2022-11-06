@@ -7,8 +7,8 @@
 		"particle": "block/repeater_on",
 		"top": "block/repeater_on",
 		"lit": "block/redstone_torch",
-		"repeater_overlay": "block/repeater_on_overlay",
-		"torch_overlay": "block/redstone_torch_overlay"
+		"repeater_overlay": "block/repeater_on_glow",
+		"torch_overlay": "block/redstone_torch_glow"
 	},
 	"elements": [
 		{

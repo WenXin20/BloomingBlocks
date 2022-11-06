@@ -8,8 +8,8 @@
 		"top": "block/comparator_on",
 		"unlit": "block/redstone_torch_off",
 		"lit": "block/redstone_torch",
-		"comparator_overlay": "block/comparator_on_overlay",
-		"torch_overlay": "block/redstone_torch_overlay"
+		"comparator_overlay": "block/comparator_on_glow",
+		"torch_overlay": "block/redstone_torch_glow"
 	},
 	"elements": [
 		{

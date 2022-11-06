@@ -3,6 +3,6 @@
   "textures": {
     "fire": "minecraft:block/campfire_fire",
     "lit_log": "minecraft:block/campfire_log_lit",
-    "lit_overlay": "minecraft:block/campfire_lit_overlay"
+    "lit_overlay": "minecraft:block/campfire_lit_glow"
   }
 }

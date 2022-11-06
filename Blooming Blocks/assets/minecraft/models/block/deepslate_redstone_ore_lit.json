@@ -2,7 +2,7 @@
   "parent": "minecraft:block/cube_all_lit",
   "textures": {
     "all": "minecraft:block/deepslate_redstone_ore",
-	"overlay": "block/deepslate_redstone_ore_overlay"
+	"overlay": "block/deepslate_redstone_ore_glow"
   },
   "ctm_version": 1,
   "ctm_overrides": {

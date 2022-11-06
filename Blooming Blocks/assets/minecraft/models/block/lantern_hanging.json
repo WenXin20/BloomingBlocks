@@ -3,6 +3,6 @@
   "render_type": "cutout",
   "textures": {
     "lantern": "minecraft:block/lantern",
-    "overlay": "minecraft:block/lantern_overlay"
+    "overlay": "minecraft:block/lantern_glow"
   }
 }

@@ -8,8 +8,8 @@
 		"top": "block/repeater_on",
 		"lit": "block/redstone_torch",
 		"lock": "block/bedrock",
-		"torch_overlay": "block/redstone_torch_overlay",
-		"repeater_overlay": "block/repeater_on_overlay"
+		"torch_overlay": "block/redstone_torch_glow",
+		"repeater_overlay": "block/repeater_on_glow"
 	},
 	"elements": [
 		{
