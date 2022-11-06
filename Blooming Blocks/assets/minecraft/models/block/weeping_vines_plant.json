@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross_lit",
+  "textures": {
+    "cross": "minecraft:block/weeping_vines_plant",
+    "overlay": "minecraft:block/weeping_vines_plant_glow"
+  }
+}
