@@ -4,6 +4,8 @@
     "front": "minecraft:block/jack_o_lantern",
     "front_overlay": "minecraft:block/jack_o_lantern_glow",
     "side": "minecraft:block/pumpkin_side",
-    "top": "minecraft:block/pumpkin_top"
+    "side_overlay": "minecraft:block/jack_o_lantern_empty",
+    "top": "minecraft:block/pumpkin_top",
+    "top_overlay": "minecraft:block/jack_o_lantern_empty"
   }
 }
