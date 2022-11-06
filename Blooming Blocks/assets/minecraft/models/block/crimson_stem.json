@@ -4,6 +4,7 @@
 	"textures":{
 		"end":"block/crimson_stem_top",
 		"side":"block/crimson_stem",
+		"end_glow":"block/crimson_stem_top_glow",
 		"side_glow":"block/crimson_stem_glow"
 	},
 	"elements":[
@@ -22,6 +23,8 @@
 			"from":[0,0,0],"to":[16,16,16],
             "shade": false,
 			"faces":{
+				"up":{"uv":[0,0,16,16],"texture":"#end_glow","cullface":"up"},
+				"down":{"uv":[0,0,16,16],"texture":"#end_glow","cullface":"down"},
 				"north":{"uv":[0,0,16,16],"texture":"#side_glow","cullface":"north"},
 				"south":{"uv":[0,0,16,16],"texture":"#side_glow","cullface":"south"},
 				"west":{"uv":[0,0,16,16],"texture":"#side_glow","cullface":"west"},

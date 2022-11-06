@@ -18,8 +18,8 @@
 		},
 		{
 			"name": "overlay",
-			"from": [0, 0, 0],
-			"to": [16, 16, 0.02],
+			"from": [0, 0, 0.1],
+			"to": [16, 16, 0.2],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#sculk_vein_overlay"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#sculk_vein_overlay"}
