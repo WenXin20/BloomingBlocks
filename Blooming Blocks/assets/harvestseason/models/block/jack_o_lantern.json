@@ -1,5 +1,6 @@
 {
   "loader": "harvestseason:carved_pumpkin",
+  "render_type": "cutout",
   "model": {
     "parent": "harvestseason:block/pumpkin_frame_lit",
     "render_type": "cutout",

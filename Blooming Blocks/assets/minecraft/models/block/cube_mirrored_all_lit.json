@@ -1,5 +1,5 @@
 {
-    "parent": "block/cube_mirrored_lit",
+    "parent": "block/cube",
     "render_type": "cutout",
     "textures": {
         "particle": "#all",
@@ -16,4 +16,28 @@
         "south_overlay": "#all_overlay",
         "west_overlay": "#all_overlay"
     }
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [16, 0, 0, 16], "texture": "#all", "cullface": "down" },
+                "up":    { "uv": [16, 0, 0, 16], "texture": "#all", "cullface": "up" },
+                "north": { "uv": [16, 0, 0, 16], "texture": "#all", "cullface": "north" },
+                "south": { "uv": [16, 0, 0, 16], "texture": "#all", "cullface": "south" },
+                "west":  { "uv": [16, 0, 0, 16], "texture": "#all", "cullface": "west" },
+                "east":  { "uv": [16, 0, 0, 16], "texture": "#all", "cullface": "east" }
+            }
+        },
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [16, 0, 0, 16], "texture": "#all_overlay", "cullface": "down", "tintindex": -101 },
+                "up":    { "uv": [16, 0, 0, 16], "texture": "#all_overlay", "cullface": "up", "tintindex": -101 },
+                "north": { "uv": [16, 0, 0, 16], "texture": "#all_overlay", "cullface": "north", "tintindex": -101 },
+                "south": { "uv": [16, 0, 0, 16], "texture": "#all_overlay", "cullface": "south", "tintindex": -101 },
+                "west":  { "uv": [16, 0, 0, 16], "texture": "#all_overlay", "cullface": "west", "tintindex": -101 },
+                "east":  { "uv": [16, 0, 0, 16], "texture": "#all_overlay", "cullface": "east", "tintindex": -101 }
+            }
+        }
+    ]
 }
