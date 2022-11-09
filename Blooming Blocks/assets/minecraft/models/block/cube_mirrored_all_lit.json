@@ -15,7 +15,7 @@
         "east_overlay": "#all_overlay",
         "south_overlay": "#all_overlay",
         "west_overlay": "#all_overlay"
-    }
+    },
     "elements": [
         {   "from": [ 0, 0, 0 ],
             "to": [ 16, 16, 16 ],
