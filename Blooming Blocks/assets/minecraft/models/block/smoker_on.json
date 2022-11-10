@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom_lit",
+  "textures": {
+    "bottom": "minecraft:block/smoker_bottom",
+    "bottom_overlay": "minecraft:block/empty",
+    "front": "minecraft:block/smoker_front_on",
+    "front_overlay": "minecraft:block/smoker_front_on_glow",
+    "side": "minecraft:block/smoker_side",
+    "side_overlay": "minecraft:block/empty",
+    "top": "minecraft:block/smoker_top",
+    "top_overlay": "minecraft:block/empty"
+  }
+}

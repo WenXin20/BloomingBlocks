@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/orientable_lit",
+  "textures": {
+    "front": "minecraft:block/furnace_front_on",
+    "front_overlay": "minecraft:block/furnace_front_on_glow",
+    "side": "minecraft:block/furnace_side",
+    "side_overlay": "minecraft:block/empty",
+    "top": "minecraft:block/furnace_top",
+    "top_overlay": "minecraft:block/empty"
+  }
+}
