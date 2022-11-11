@@ -6,12 +6,6 @@
 	"textures": {
 		"particle": "#all"
 	},
-	"ctm_version": 1,
-	"ctm_overrides": {
-		"-101": {
-			"layer": "cutout"
-		}
-	},
 	"elements": [
 		{
 			"from": [0, 0, 0],
@@ -29,12 +23,12 @@
 			"from": [0, 0, 0],
 			"to": [16, 16, 16],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#overlay", "tintindex": -101},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#overlay", "tintindex": -101},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#overlay", "tintindex": -101},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#overlay", "tintindex": -101},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#overlay", "tintindex": -101},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#overlay", "tintindex": -101}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#overlay", "cullface": "north", "tintindex": -101},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#overlay", "cullface": "east", "tintindex": -101},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#overlay", "cullface": "south", "tintindex": -101},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#overlay", "cullface": "west", "tintindex": -101},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#overlay", "cullface": "up", "tintindex": -101},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#overlay", "cullface": "down", "tintindex": -101}
 			}
 		}
 	],

@@ -1,9 +1,9 @@
 {
-    "parent": "block/cube_all_lit",
+    "parent": "block/cube_all",
     "render_type": "cutout",
     "textures": {
         "all": "block/magma",
-        "overlay": "block/magma_glow"
+        "all_glow": "block/magma_glow"
     },
 	"elements":[
 		{
@@ -20,12 +20,12 @@
 		{
 			"from":[0,0,0],"to":[16,16,16],
 			"faces":{
-				"up":{"uv":[0,0,16,16],"texture":"#overlay","cullface":"up"},
-				"down":{"uv":[0,0,16,16],"texture":"#overlay","cullface":"down"},
-				"north":{"uv":[0,0,16,16],"texture":"#overlay","cullface":"north"},
-				"south":{"uv":[0,0,16,16],"texture":"#overlay","cullface":"south"},
-				"west":{"uv":[0,0,16,16],"texture":"#overlay","cullface":"west"},
-				"east":{"uv":[0,0,16,16],"texture":"#overlay","cullface":"east"}
+				"north":{"texture":"#all_glow","cullface":"north"},
+				"up":{"uv":[0,0,16,16],"texture":"#all_glow","cullface":"up"},
+				"down":{"uv":[0,0,16,16],"texture":"#all_glow","cullface":"down"},
+				"south":{"uv":[0,0,16,16],"texture":"#all_glow","cullface":"south"},
+				"west":{"uv":[0,0,16,16],"texture":"#all_glow","cullface":"west"},
+				"east":{"uv":[0,0,16,16],"texture":"#all_glow","cullface":"east"}
 			}
 		}
 	]
