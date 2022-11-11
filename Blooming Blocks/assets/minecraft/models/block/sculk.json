@@ -1,7 +1,35 @@
 {
-  "parent": "minecraft:block/cube_all_lit",
-  "textures": {
-    "all": "minecraft:block/sculk",
-    "overlay": "minecraft:block/sculk_glow"
-  }
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_all",
+    "render_type": "cutout",
+	"textures": {
+		"all": "block/sculk",
+		"all_overlay": "block/sculk_glow"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "down"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all_overlay", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#all_overlay", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all_overlay", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#all_overlay", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#all_overlay", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#all_overlay", "cullface": "down"}
+			}
+		}
+	]
 }
