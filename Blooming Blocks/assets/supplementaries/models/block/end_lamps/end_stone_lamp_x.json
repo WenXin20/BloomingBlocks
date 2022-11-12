@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cube_all_overlay",
+	"textures": {
+		"all": "supplementaries:blocks/end_lamps/end_stone_lamp_x",
+		"overlay": "supplementaries:blocks/end_lamps/end_stone_lamp_x_glow"
+	}
+}
