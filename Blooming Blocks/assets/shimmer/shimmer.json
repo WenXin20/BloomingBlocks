@@ -62,7 +62,6 @@
     { "block": "byg:boric_fire" },
     { "block": "quark:glow_lichen_growth" },
     { "block": "quark:glow_shroom_block" },
-    { "block": "supplementaries:wall_lantern" },
     { "block": "supplementaries:redstone_illuminator", "state": { "power": 0 } },
     { "block": "supplementaries:redstone_illuminator", "state": { "power": 1 } },
     { "block": "supplementaries:redstone_illuminator", "state": { "power": 2 } },
