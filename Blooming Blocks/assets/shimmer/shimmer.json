@@ -60,6 +60,7 @@
     { "block": "minecraft:soul_fire" },
     { "block": "minecraft:verdan_froglight" },
     { "block": "byg:boric_fire" },
+    { "block": "framedblocks:framed_glowing_cube" },
     { "block": "quark:glow_lichen_growth" },
     { "block": "quark:glow_shroom_block" },
     { "block": "supplementaries:redstone_illuminator", "state": { "power": 0 } },
@@ -921,6 +922,38 @@
       "radius": 10
     },
     {
+      "block": "framedblocks:framed_redstone_torch",
+      "state": { "lit": true },
+      "color": "#redstoneRed",
+      "radius": 7
+    },
+    {
+      "block": "framedblocks:framed_redstone_wall_torch",
+      "state": { "lit": true },
+      "color": "#redstoneRed",
+      "radius": 7
+    },
+    {
+      "block": "framedblocks:framed_soul_torch",
+      "color": "#soulBlue",
+      "radius": 10
+    },
+    {
+      "block": "framedblocks:framed_soul_wall_torch",
+      "color": "#soulBlue",
+      "radius": 10
+    },
+    {
+      "block": "framedblocks:framed_torch",
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "framedblocks:framed_wall_torch",
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
       "block": "pokecube_legends:distortic_glowstone",
       "r": 0, "g": 0, "b": 255, "a": 100,
       "radius": 15
@@ -1452,6 +1485,26 @@
     },
     {
       "item_id" : "minecraft:torch",
+      "r": 120, "g": 55, "b": 0, "a": 125,
+      "radius": 15
+    },
+    {
+      "item_id": "framedblocks:framed_redstone_torch",
+      "color": "#redstoneRed",
+      "radius": 3
+    },
+    {
+      "item_id": "framedblocks:framed_soul_lantern",
+      "r": 0, "g": 143, "b": 146, "a": 255,
+      "radius": 10
+    },
+    {
+      "item_id": "framedblocks:framed_soul_torch",
+      "r": 0, "g": 211, "b": 236, "a": 125,
+      "radius": 10
+    },
+    {
+      "item_id" : "framedblocks:framed_torch",
       "r": 120, "g": 55, "b": 0, "a": 125,
       "radius": 15
     }
