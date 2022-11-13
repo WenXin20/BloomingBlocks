@@ -1651,11 +1651,6 @@
       "radius": 3
     },
     {
-      "item_id": "framedblocks:framed_soul_lantern",
-      "r": 0, "g": 143, "b": 146, "a": 255,
-      "radius": 10
-    },
-    {
       "item_id": "framedblocks:framed_soul_torch",
       "r": 0, "g": 211, "b": 236, "a": 125,
       "radius": 10
