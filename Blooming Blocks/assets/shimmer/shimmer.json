@@ -1548,6 +1548,12 @@
       "radius": 15
     },
     {
+      "block": "supplementaries:copper_lantern",
+      "state": { "lit": true },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
       "block": "supplementaries:end_stone_lamp",
       "color": "#endPink",
       "radius": 15
