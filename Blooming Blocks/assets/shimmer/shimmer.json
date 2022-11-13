@@ -1116,439 +1116,445 @@
       "radius": 15
     },
     {
-      "block": "supplementaries:candle_holder",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_black",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_black",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_black",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_black",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_blue",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_blue",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_blue",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_blue",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_brown",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_brown",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_brown",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_brown",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_cyan",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_cyan",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_cyan",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_cyan",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_gray",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_gray",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_gray",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_gray",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_green",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_green",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_green",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_green",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_light_blue",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_light_blue",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_light_blue",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_light_blue",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_light_gray",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_light_gray",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_light_gray",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_light_gray",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_lime",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_lime",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_lime",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_lime",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_magenta",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_magenta",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_magenta",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_magenta",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_orange",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_orange",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_orange",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_orange",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_pink",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_pink",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_pink",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_pink",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_purple",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_purple",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_purple",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_purple",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_red",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_red",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_red",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_red",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_soul",
-      "state": { "candles": 1 },
-      "color": "#soulBlue",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_soul",
-      "state": { "candles": 2 },
-      "color": "#soulBlue",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_soul",
-      "state": { "candles": 3 },
-      "color": "#soulBlue",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_soul",
-      "state": { "candles": 4 },
-      "color": "#soulBlue",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_white",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_white",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_white",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_white",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
-      "block": "supplementaries:candle_holder_yellow",
-      "state": { "candles": 1 },
-      "color": "#faintOrange",
-      "radius": 9
-    },
-    {
-      "block": "supplementaries:candle_holder_yellow",
-      "state": { "candles": 2 },
-      "color": "#faintOrange",
-      "radius": 11
-    },
-    {
-      "block": "supplementaries:candle_holder_yellow",
-      "state": { "candles": 3 },
-      "color": "#faintOrange",
-      "radius": 13
-    },
-    {
-      "block": "supplementaries:candle_holder_yellow",
-      "state": { "candles": 4 },
-      "color": "#faintOrange",
-      "radius": 15
-    },
-    {
       "block": "supplementaries:brass_lantern",
+      "state": { "lit": true },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_black",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_black",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_black",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_black",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_blue",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_blue",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_blue",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_blue",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_brown",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_brown",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_brown",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_brown",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_cyan",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_cyan",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_cyan",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_cyan",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_gray",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_gray",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_gray",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_gray",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_green",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_green",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_green",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_green",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_light_blue",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_light_blue",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_light_blue",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_light_blue",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_light_gray",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_light_gray",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_light_gray",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_light_gray",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_lime",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_lime",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_lime",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_lime",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_magenta",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_magenta",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_magenta",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_magenta",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_orange",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_orange",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_orange",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_orange",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_pink",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_pink",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_pink",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_pink",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_purple",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_purple",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_purple",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_purple",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_red",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_red",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_red",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_red",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_soul",
+      "state": { "candles": 1 },
+      "color": "#soulBlue",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_soul",
+      "state": { "candles": 2 },
+      "color": "#soulBlue",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_soul",
+      "state": { "candles": 3 },
+      "color": "#soulBlue",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_soul",
+      "state": { "candles": 4 },
+      "color": "#soulBlue",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_white",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_white",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_white",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_white",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_yellow",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_yellow",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_yellow",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_yellow",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:crimson_lantern",
       "state": { "lit": true },
       "color": "#faintOrange",
       "radius": 15
