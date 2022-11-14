@@ -1571,6 +1571,12 @@
       "radius": 15
     },
     {
+      "block": "supplementaries:lead_lantern",
+      "state": { "lit": true },
+      "color": "#endPink",
+      "radius": 15
+    },
+    {
       "block": "supplementaries:sconce",
       "state": { "lit": true },
       "color": "#faintOrange",
@@ -1635,6 +1641,12 @@
       "state": { "lit": true },
       "color": "#soulBlue",
       "radius": 10
+    },
+    {
+      "block": "supplementaries:silver_lantern",
+      "state": { "lit": true },
+      "color": "#pastelOrange",
+      "radius": 15
     }
   ],
   "LightItem": [
