@@ -1652,7 +1652,7 @@
   "LightItem": [
     {
       "item_id": "minecraft:lantern",
-      "r": 255, "g": 174, "b": 69, "a": 255,
+      "r": 255, "g": 174, "b": 69, "a": 125,
       "radius": 10
     },
     {
@@ -1662,7 +1662,7 @@
     },
     {
       "item_id": "minecraft:soul_lantern",
-      "r": 0, "g": 143, "b": 146, "a": 255,
+      "r": 0, "g": 143, "b": 146, "a": 200,
       "radius": 10
     },
     {
@@ -1672,7 +1672,7 @@
     },
     {
       "item_id" : "minecraft:torch",
-      "r": 120, "g": 55, "b": 0, "a": 125,
+      "r": 255, "g": 174, "b": 69, "a": 125,
       "radius": 15
     },
     {
@@ -1687,7 +1687,32 @@
     },
     {
       "item_id" : "framedblocks:framed_torch",
-      "r": 120, "g": 55, "b": 0, "a": 125,
+      "r": 255, "g": 174, "b": 69, "a": 125,
+      "radius": 15
+    },
+    {
+      "item_id": "supplementaries:lead_lantern",
+      "r": 100, "g": 26, "b": 99, "a": 125,
+      "radius": 15
+    },
+    {
+      "item_id": "supplementaries:crimson_lantern",
+      "r": 255, "g": 174, "b": 69, "a": 125,
+      "radius": 15
+    },
+    {
+      "item_id": "supplementaries:copper_lantern",
+      "r": 255, "g": 174, "b": 69, "a": 125,
+      "radius": 15
+    },
+    {
+      "item_id": "supplementaries:brass_lantern",
+      "r": 255, "g": 174, "b": 69, "a": 125,
+      "radius": 15
+    },
+    {
+      "item_id": "supplementaries:silver_lantern",
+      "r": 115, "g": 69, "b": 36, "a": 200,
       "radius": 15
     }
   ]
