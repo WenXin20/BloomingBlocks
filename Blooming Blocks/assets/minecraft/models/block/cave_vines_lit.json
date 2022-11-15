@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross_lit",
+  "textures": {
+    "cross": "minecraft:block/cave_vines",
+    "overlay": "minecraft:block/cave_vines_lit"
+  }
+}
