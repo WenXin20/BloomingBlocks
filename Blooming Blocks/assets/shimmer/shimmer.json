@@ -553,6 +553,10 @@
     { "block": "supplementaries:sconce_wall_green", "state": { "lit": true }, "color": "#soulGreen", "radius": 13 },
     { "block": "supplementaries:sconce_wall_soul", "state": { "lit": true }, "color": "#soulBlue", "radius": 10 },
     { "block": "supplementaries:silver_lantern", "state": { "lit": true }, "color": "#pastelOrange", "radius": 15 },
+    { "block": "supplementaries:skull_candle", "state": { "candles": 1 }, "color": "#faintOrange", "radius": 3 },
+    { "block": "supplementaries:skull_candle", "state": { "candles": 2 }, "color": "#faintOrange", "radius": 6 },
+    { "block": "supplementaries:skull_candle", "state": { "candles": 3 }, "color": "#faintOrange", "radius": 9 },
+    { "block": "supplementaries:skull_candle", "state": { "candles": 4 }, "color": "#faintOrange", "radius": 12 },
 	
     { "block": "tinted:amber_candle", "state": { "candles": 1 }, "color": "#faintOrange", "radius": 3 },
     { "block": "tinted:amber_candle", "state": { "candles": 2 }, "color": "#faintOrange", "radius": 6 },
