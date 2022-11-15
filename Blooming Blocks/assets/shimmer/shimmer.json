@@ -10,6 +10,7 @@
 	"magmaRed": { "r": 255, "g": 26, "b": 0, "a": 150 },
 	"ochre": { "r": 150, "g": 85, "b": 0, "a": 50 },
 	"pastelOrange": { "r": 115, "g": 69, "b": 36, "a": 50 },
+	"pastelPurple": { "r": 109, "g": 80, "b": 113, "a": 50 },
 	"pearlescent": { "r": 50, "g": 0, "b": 100, "a": 50 },
 	"portalPurple": { "r": 47, "g": 2, "b": 187, "a": 200 },
 	"redstoneRed": { "r": 255, "g": 0, "b": 0, "a": 200 },
@@ -1147,6 +1148,11 @@
     {
       "block": "pokecube_legends:distortic_glowstone",
       "r": 0, "g": 0, "b": 255, "a": 100,
+      "radius": 15
+    },
+    {
+      "block": "pokecube_legends:infected_lantern",
+      "color": "#pastelPurple",
       "radius": 15
     },
     {
