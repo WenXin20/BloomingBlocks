@@ -10,7 +10,7 @@
 	"magmaRed": { "r": 255, "g": 26, "b": 0, "a": 150 },
 	"ochre": { "r": 150, "g": 85, "b": 0, "a": 50 },
 	"pastelOrange": { "r": 115, "g": 69, "b": 36, "a": 50 },
-	"pastelPurple": { "r": 109, "g": 80, "b": 113, "a": 50 },
+	"pastelPurple": { "r": 150, "g": 75, "b": 255, "a": 255 },
 	"pearlescent": { "r": 50, "g": 0, "b": 100, "a": 50 },
 	"portalPurple": { "r": 47, "g": 2, "b": 187, "a": 200 },
 	"redstoneRed": { "r": 255, "g": 0, "b": 0, "a": 200 },
@@ -1153,7 +1153,7 @@
     {
       "block": "pokecube_legends:infected_lantern",
       "color": "#pastelPurple",
-      "radius": 15
+      "radius": 10
     },
     {
       "block": "supplementaries:brass_lantern",
@@ -1186,6 +1186,54 @@
       "radius": 15
     },
     {
+      "block": "supplementaries:candle_holder_amber",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_amber",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_amber",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_amber",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_biege",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_biege",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_biege",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_biege",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
       "block": "supplementaries:candle_holder_black",
       "state": { "candles": 1 },
       "color": "#faintOrange",
@@ -1240,6 +1288,30 @@
       "radius": 9
     },
     {
+      "block": "supplementaries:candle_holder_bordeaux",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_bordeaux",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_bordeaux",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_bordeaux",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
       "block": "supplementaries:candle_holder_brown",
       "state": { "candles": 2 },
       "color": "#faintOrange",
@@ -1253,6 +1325,54 @@
     },
     {
       "block": "supplementaries:candle_holder_brown",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_bubblegum",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_bubblegum",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_bubblegum",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_bubblegum",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_coral",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_coral",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_coral",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_coral",
       "state": { "candles": 4 },
       "color": "#faintOrange",
       "radius": 15
@@ -1282,6 +1402,30 @@
       "radius": 15
     },
     {
+      "block": "supplementaries:candle_holder_ender",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_ender",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_ender",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_ender",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
       "block": "supplementaries:candle_holder_gray",
       "state": { "candles": 1 },
       "color": "#faintOrange",
@@ -1325,6 +1469,54 @@
     },
     {
       "block": "supplementaries:candle_holder_green",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_indigo",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_indigo",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_indigo",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_indigo",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_lavender",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_lavender",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_lavender",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_lavender",
       "state": { "candles": 4 },
       "color": "#faintOrange",
       "radius": 15
@@ -1426,6 +1618,54 @@
       "radius": 15
     },
     {
+      "block": "supplementaries:candle_holder_mint",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_mint",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_mint",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_mint",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_olive",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_olive",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_olive",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_olive",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
       "block": "supplementaries:candle_holder_orange",
       "state": { "candles": 1 },
       "color": "#faintOrange",
@@ -1445,6 +1685,30 @@
     },
     {
       "block": "supplementaries:candle_holder_orange",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_ochre",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_ochre",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_ochre",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_ochre",
       "state": { "candles": 4 },
       "color": "#faintOrange",
       "radius": 15
@@ -1543,6 +1807,30 @@
       "block": "supplementaries:candle_holder_soul",
       "state": { "candles": 4 },
       "color": "#soulBlue",
+      "radius": 15
+    },
+    {
+      "block": "supplementaries:candle_holder_turquoise",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "supplementaries:candle_holder_turquoise",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 11
+    },
+    {
+      "block": "supplementaries:candle_holder_turquoise",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 13
+    },
+    {
+      "block": "supplementaries:candle_holder_turquoise",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
       "radius": 15
     },
     {
@@ -1687,6 +1975,366 @@
       "state": { "lit": true },
       "color": "#pastelOrange",
       "radius": 15
+    },
+    {
+      "block": "tinted:amber_candle",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:amber_candle",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 6
+    },
+    {
+      "block": "tinted:amber_candle",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "tinted:amber_candle",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 12
+    },
+    {
+      "block": "tinted:amber_candle_cake",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:beige_candle",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:beige_candle",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 6
+    },
+    {
+      "block": "tinted:beige_candle",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "tinted:beige_candle",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 12
+    },
+    {
+      "block": "tinted:beige_candle_cake",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:bordeaux_candle",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:bordeaux_candle",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 6
+    },
+    {
+      "block": "tinted:bordeaux_candle",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "tinted:bordeaux_candle",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 12
+    },
+    {
+      "block": "tinted:bordeaux_candle_cake",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:bubblegum_candle",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:bubblegum_candle",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 6
+    },
+    {
+      "block": "tinted:bubblegum_candle",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "tinted:bubblegum_candle",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 12
+    },
+    {
+      "block": "tinted:bubblegum_candle_cake",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:coral_candle",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:coral_candle",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 6
+    },
+    {
+      "block": "tinted:coral_candle",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "tinted:coral_candle",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 12
+    },
+    {
+      "block": "tinted:coral_candle_cake",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:ender_candle",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:ender_candle",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 6
+    },
+    {
+      "block": "tinted:ender_candle",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "tinted:ender_candle",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 12
+    },
+    {
+      "block": "tinted:ender_candle_cake",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:indigo_candle",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:indigo_candle",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 6
+    },
+    {
+      "block": "tinted:indigo_candle",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "tinted:indigo_candle",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 12
+    },
+    {
+      "block": "tinted:indigo_candle_cake",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:lavender_candle",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:lavender_candle",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 6
+    },
+    {
+      "block": "tinted:lavender_candle",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "tinted:lavender_candle",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 12
+    },
+    {
+      "block": "tinted:lavender_candle_cake",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:mint_candle",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:mint_candle",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 6
+    },
+    {
+      "block": "tinted:mint_candle",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "tinted:mint_candle",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 12
+    },
+    {
+      "block": "tinted:mint_candle_cake",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:olive_candle",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:olive_candle",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 6
+    },
+    {
+      "block": "tinted:olive_candle",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "tinted:olive_candle",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 12
+    },
+    {
+      "block": "tinted:olive_candle_cake",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:ochre_candle",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:ochre_candle",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 6
+    },
+    {
+      "block": "tinted:ochre_candle",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "tinted:ochre_candle",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 12
+    },
+    {
+      "block": "tinted:ochre_candle_cake",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:turquoise_candle",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
+    },
+    {
+      "block": "tinted:turquoise_candle",
+      "state": { "candles": 2 },
+      "color": "#faintOrange",
+      "radius": 6
+    },
+    {
+      "block": "tinted:turquoise_candle",
+      "state": { "candles": 3 },
+      "color": "#faintOrange",
+      "radius": 9
+    },
+    {
+      "block": "tinted:turquoise_candle",
+      "state": { "candles": 4 },
+      "color": "#faintOrange",
+      "radius": 12
+    },
+    {
+      "block": "tinted:turquoise_candle_cake",
+      "state": { "candles": 1 },
+      "color": "#faintOrange",
+      "radius": 3
     }
   ],
   "LightItem": [
@@ -1749,6 +2397,11 @@
       "item_id" : "framedblocks:framed_torch",
       "r": 255, "g": 174, "b": 69, "a": 125,
       "radius": 15
+    },
+    {
+      "item_id": "pokecube_legends:infected_lantern",
+      "r": 135, "g": 100, "b": 255, "a": 255,
+      "radius": 10
     },
     {
       "item_id": "supplementaries:lead_lantern",
