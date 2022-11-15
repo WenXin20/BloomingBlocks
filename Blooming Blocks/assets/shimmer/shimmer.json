@@ -1,10 +1,12 @@
 {
   "ColorReference": {
+	"boricGreen": { "r": 41, "g": 200, "b": 50, "a": 50 },
 	"brightWhite": { "r": 150, "g": 150, "b": 150, "a": 50 },
 	"endPink": { "r": 100, "g": 26, "b": 99, "a": 200 },
 	"faintBlue": { "r": 27, "g": 75, "b": 110, "a": 50 },
 	"faintOrange": { "r": 120, "g": 55, "b": 0, "a": 50 },
 	"faintWhite": { "r": 64, "g": 64, "b": 64, "a": 50 },
+	"glowstoneOrange": { "r": 255, "g": 100, "b": 0, "a": 50 },
 	"magmaRed": { "r": 255, "g": 26, "b": 0, "a": 150 },
 	"ochre": { "r": 150, "g": 85, "b": 0, "a": 50 },
 	"pastelOrange": { "r": 115, "g": 69, "b": 36, "a": 50 },
@@ -373,7 +375,7 @@
     },
     {
       "block": "minecraft:glowstone",
-      "color": "#faintOrange",
+      "color": "#glowstoneOrange",
       "radius": 15
     },
     {
@@ -981,7 +983,27 @@
     },
     {
       "block": "byg:boric_fire",
-      "r": 41, "g": 200, "b": 50, "a": 50,
+      "color": "#boricGreen",
+      "radius": 15
+    },
+    {
+      "block": "byg:boric_lantern",
+      "color": "#boricGreen",
+      "radius": 15
+    },
+    {
+      "block": "byg:cryptic_lantern",
+      "color": "#redstoneRed",
+      "radius": 15
+    },
+    {
+      "block": "byg:glowstone_lantern",
+      "color": "#glowstoneOrange",
+      "radius": 15
+    },
+    {
+      "block": "byg:therium_lantern",
+      "color": "#faintBlue",
       "radius": 15
     },
     {
@@ -1673,6 +1695,26 @@
     {
       "item_id" : "minecraft:torch",
       "r": 255, "g": 174, "b": 69, "a": 125,
+      "radius": 15
+    },
+    {
+      "item_id": "byg:boric_lantern",
+      "r": 41, "g": 200, "b": 50, "a": 150,
+      "radius": 15
+    },
+    {
+      "item_id": "byg:cryptic_lantern",
+      "color": "#redstoneRed",
+      "radius": 10
+    },
+    {
+      "item_id": "byg:glowstone_lantern",
+      "r": 255, "g": 174, "b": 0, "a": 125,
+      "radius": 15
+    },
+    {
+      "item_id": "byg:therium_lantern",
+      "r": 0, "g": 143, "b": 50, "a": 200,
       "radius": 15
     },
     {
