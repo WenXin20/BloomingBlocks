@@ -303,6 +303,18 @@
       "radius": 3
     },
     {
+      "block": "minecraft:cave_vines",
+      "state": { "berries": true },
+      "color": "#glowstoneOrange",
+      "radius": 14
+    },
+    {
+      "block": "minecraft:cave_vines_plant",
+      "state": { "berries": true },
+      "color": "#glowstoneOrange",
+      "radius": 14
+    },
+    {
       "block": "minecraft:crying_obsidian",
       "color": "#portalPurple",
       "radius": 10
