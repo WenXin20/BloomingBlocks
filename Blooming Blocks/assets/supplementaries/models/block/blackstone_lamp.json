@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "supplementaries:block/template_lamp",
+	"textures": {
+		"end": "supplementaries:blocks/blackstone_lamp_top",
+		"side": "supplementaries:blocks/blackstone_lamp",
+		"end_overlay": "supplementaries:blocks/blackstone_lamp_top_glow",
+		"side_overlay": "supplementaries:blocks/blackstone_lamp_glow"
+	}
+}

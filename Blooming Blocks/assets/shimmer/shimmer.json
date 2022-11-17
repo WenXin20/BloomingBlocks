@@ -416,6 +416,7 @@
     { "block": "pokecube_legends:distortic_glowstone", "r": 0, "g": 0, "b": 255, "a": 100, "radius": 15 },
     { "block": "pokecube_legends:infected_lantern", "color": "#pastelPurple", "radius": 10 },
 	
+    { "block": "supplementaries:blackstone_lamp", "state": { "lit": true }, "color": "#pastelOrange", "radius": 15 },
     { "block": "supplementaries:brass_lantern", "state": { "lit": true }, "color": "#faintOrange", "radius": 15 },
     { "block": "supplementaries:candle_holder", "state": { "candles": 1 }, "color": "#faintOrange", "radius": 9 },
     { "block": "supplementaries:candle_holder", "state": { "candles": 2 }, "color": "#faintOrange", "radius": 11 },
@@ -539,6 +540,7 @@
     { "block": "supplementaries:candle_holder_yellow", "state": { "candles": 4 }, "color": "#faintOrange", "radius": 15 },
     { "block": "supplementaries:crimson_lantern", "state": { "lit": true }, "color": "#faintOrange", "radius": 15 },
     { "block": "supplementaries:copper_lantern", "state": { "lit": true }, "color": "#faintOrange", "radius": 15 },
+    { "block": "supplementaries:deepslate_lamp", "state": { "lit": true }, "color": "#pastelOrange", "radius": 15 },
     { "block": "supplementaries:end_stone_lamp", "color": "#endPink", "radius": 15 },
     { "block": "supplementaries:lead_lantern", "state": { "lit": true }, "color": "#endPink", "radius": 15 },
     { "block": "supplementaries:sconce", "state": { "lit": true }, "color": "#faintOrange", "radius": 14 },
@@ -557,6 +559,7 @@
     { "block": "supplementaries:skull_candle", "state": { "candles": 2 }, "color": "#faintOrange", "radius": 6 },
     { "block": "supplementaries:skull_candle", "state": { "candles": 3 }, "color": "#faintOrange", "radius": 9 },
     { "block": "supplementaries:skull_candle", "state": { "candles": 4 }, "color": "#faintOrange", "radius": 12 },
+    { "block": "supplementaries:stone_lamp", "state": { "lit": true }, "color": "#pastelOrange", "radius": 15 },
 	
     { "block": "tinted:amber_candle", "state": { "candles": 1 }, "color": "#faintOrange", "radius": 3 },
     { "block": "tinted:amber_candle", "state": { "candles": 2 }, "color": "#faintOrange", "radius": 6 },
