@@ -1,0 +1,7 @@
+{
+    "parent": "block/observer_lit",
+    "textures": {
+        "bottom": "block/observer_back_on",
+        "bottom_overlay": "block/observer_back_on_glow"
+    }
+}
