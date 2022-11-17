@@ -43,8 +43,8 @@
     { "block": "minecraft:large_amethyst_bud" },
     { "block": "minecraft:medium_amethyst_bud" },
     { "block": "minecraft:nether_portal" },
-    { "block": "minecraft:ochr_froglight" },
-    { "block": "minecraft:pearlescen_froglight" },
+    { "block": "minecraft:ochre_froglight" },
+    { "block": "minecraft:pearlescent_froglight" },
     { "block": "minecraft:redstone_wire", "state": { "power": 1 } },
     { "block": "minecraft:redstone_wire", "state": { "power": 2 } },
     { "block": "minecraft:redstone_wire", "state": { "power": 3 } },
@@ -64,7 +64,7 @@
     { "block": "minecraft:shroomlight" },
     { "block": "minecraft:small_amethyst_bud" },
     { "block": "minecraft:soul_fire" },
-    { "block": "minecraft:verdan_froglight" },
+    { "block": "minecraft:verdant_froglight" },
 	
     { "block": "byg:boric_fire" },
 	
