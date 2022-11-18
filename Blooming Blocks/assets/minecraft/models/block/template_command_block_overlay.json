@@ -1,0 +1,19 @@
+{
+    "parent": "block/cube_directional_overlay",
+    "render_type": "cutout",
+    "textures": {
+        "particle": "#back",
+        "down": "#side",
+        "up": "#side",
+        "north": "#front",
+        "east": "#side",
+        "south": "#back",
+        "west": "#side",
+        "down_overlay": "#side_overlay",
+        "up_overlay": "#side_overlay",
+        "north_overlay": "#front_overlay",
+        "east_overlay": "#side_overlay",
+        "south_overlay": "#back_overlay",
+        "west_overlay": "#side_overlay"
+    }
+}
