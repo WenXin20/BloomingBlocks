@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_column_overlay",
+    "textures": {
+        "end": "pokecube_adventures:block/ability_field_amplifier_top",
+        "side": "pokecube_adventures:block/ability_field_amplifier",
+        "end_overlay": "pokecube_adventures:block/ability_field_amplifier_top_glow",
+        "side_overlay": "pokecube_adventures:block/ability_field_amplifier_glow"
+    }
+}
