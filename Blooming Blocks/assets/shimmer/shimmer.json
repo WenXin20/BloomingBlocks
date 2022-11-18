@@ -5,6 +5,7 @@
 	"endPink": { "r": 100, "g": 26, "b": 99, "a": 200 },
 	"faintBlue": { "r": 27, "g": 75, "b": 110, "a": 50 },
 	"faintOrange": { "r": 120, "g": 55, "b": 0, "a": 50 },
+	"faintRed": { "r": 120, "g": 26, "b": 0, "a": 150 },
 	"faintWhite": { "r": 64, "g": 64, "b": 64, "a": 50 },
 	"glowstoneOrange": { "r": 255, "g": 100, "b": 0, "a": 50 },
 	"magmaRed": { "r": 255, "g": 26, "b": 0, "a": 150 },
@@ -260,7 +261,7 @@
     { "block": "minecraft:magenta_candle", "state": { "candles": 3 }, "color": "#faintOrange", "radius": 9 },
     { "block": "minecraft:magenta_candle", "state": { "candles": 4 }, "color": "#faintOrange", "radius": 12 },
     { "block": "minecraft:magenta_candle_cake", "state": { "candles": 1 }, "color": "#faintOrange", "radius": 3 },
-    { "block": "minecraft:magma_block", "color": "#magmaRed", "radius": 3 },
+    { "block": "minecraft:magma_block", "color": "#magmaRed", "radius": 4 },
     { "block": "minecraft:nether_portal", "color": "#portalPurple", "radius": 11 },
     { "block": "minecraft:ochre_froglight", "color": "#ochre", "radius": 15 },
     { "block": "minecraft:pearlescent_froglight", "color": "#pearlescent", "radius": 15 },
@@ -413,8 +414,9 @@
     { "block": "framedblocks:framed_vertical_stairs", "state": { "glowing": true }, "color": "#brightWhite", "radius": 15 },
     { "block": "framedblocks:framed_wall_board", "state": { "glowing": true }, "color": "#brightWhite", "radius": 15 },
 	
-    { "block": "pokecube_legends:distortic_glowstone", "r": 0, "g": 0, "b": 255, "a": 100, "radius": 15 },
+    { "block": "pokecube_legends:distortic_glowstone", "r": 0, "g": 0, "b": 255, "a": 255, "radius": 15 },
     { "block": "pokecube_legends:infected_lantern", "color": "#pastelPurple", "radius": 10 },
+    { "block": "pokecube_legends:heatran_spawn", "color": "#faintRed", "radius": 4 },
 	
     { "block": "supplementaries:blackstone_lamp", "state": { "lit": true }, "color": "#pastelOrange", "radius": 15 },
     { "block": "supplementaries:brass_lantern", "state": { "lit": true }, "color": "#faintOrange", "radius": 15 },
