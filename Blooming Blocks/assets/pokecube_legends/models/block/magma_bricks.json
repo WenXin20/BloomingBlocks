@@ -1,0 +1,7 @@
+{
+   "parent": "block/cube_all_overlay",
+   "textures": {
+	"all": "pokecube_legends:block/magma_bricks",
+    "overlay": "pokecube_legends:block/magma_bricks_glow"
+   }
+}

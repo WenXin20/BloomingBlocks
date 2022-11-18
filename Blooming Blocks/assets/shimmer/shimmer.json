@@ -417,6 +417,9 @@
     { "block": "pokecube_legends:distortic_glowstone", "r": 0, "g": 0, "b": 255, "a": 255, "radius": 15 },
     { "block": "pokecube_legends:infected_lantern", "color": "#pastelPurple", "radius": 10 },
     { "block": "pokecube_legends:heatran_spawn", "color": "#faintRed", "radius": 4 },
+    { "block": "pokecube_legends:magma_bricks", "color": "#magmaRed", "radius": 4 },
+    { "block": "pokecube_legends:magma_brick_stairs", "color": "#magmaRed", "radius": 4 },
+    { "block": "pokecube_legends:magma_brick_slab", "color": "#magmaRed", "radius": 4 },
 	
     { "block": "supplementaries:blackstone_lamp", "state": { "lit": true }, "color": "#pastelOrange", "radius": 15 },
     { "block": "supplementaries:brass_lantern", "state": { "lit": true }, "color": "#faintOrange", "radius": 15 },

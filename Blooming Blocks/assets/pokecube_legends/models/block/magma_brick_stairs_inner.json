@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/inner_stairs_overlay",
+  "textures": {
+    "bottom": "pokecube_legends:block/magma_bricks",
+    "top": "pokecube_legends:block/magma_bricks",
+    "side": "pokecube_legends:block/magma_bricks",
+    "bottom_overlay": "pokecube_legends:block/magma_bricks_glow",
+    "top_overlay": "pokecube_legends:block/magma_bricks_glow",
+    "side_overlay": "pokecube_legends:block/magma_bricks_glow"
+  }
+}
