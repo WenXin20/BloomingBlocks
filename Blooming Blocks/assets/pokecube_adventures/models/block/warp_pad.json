@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_all_overlay",
+    "render_type": "cutout",
+    "textures": {
+        "all": "pokecube_adventures:block/warp_pad",
+        "overlay": "pokecube_adventures:block/warp_pad_glow"
+    }
+}
