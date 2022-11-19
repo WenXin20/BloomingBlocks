@@ -166,13 +166,14 @@
     { "block": "supplementaries:redstone_illuminator", "state": { "power": 13 } },
     { "block": "supplementaries:redstone_illuminator", "state": { "power": 14 } },
 	
-    { "block": "pokecube_legends:distortic_glowstone" },
     { "block": "pokecube_legends:aquamarine_cluster" },
     { "block": "pokecube_legends:aquamarine_crystal" },
-    { "block": "pokecube_legends:small_aquamarine_bud" },
-    { "block": "pokecube_legends:medium_aquamarine_bud" },
+    { "block": "pokecube_legends:distortic_glowstone" },
+    { "block": "pokecube_legends:infected_fire" },
     { "block": "pokecube_legends:large_aquamarine_bud" },
+    { "block": "pokecube_legends:medium_aquamarine_bud" },
     { "block": "pokecube_legends:meteorite_molten_block" },
+    { "block": "pokecube_legends:small_aquamarine_bud" },
     { "block": "pokecube_legends:meteorite_molten_layer" }
   ],
   "LightBlock": [
@@ -414,7 +415,11 @@
     { "block": "framedblocks:framed_wall_board", "state": { "glowing": true }, "color": "#brightWhite", "radius": 15 },
 	
     { "block": "pokecube_legends:distortic_glowstone", "r": 0, "g": 0, "b": 255, "a": 255, "radius": 15 },
+    { "block": "pokecube_legends:infected_campfire", "state": { "lit": true }, "color": "#pastelPurple", "radius": 10 },
+    { "block": "pokecube_legends:infected_fire", "color": "#pastelPurple", "radius": 10 },
     { "block": "pokecube_legends:infected_lantern", "color": "#pastelPurple", "radius": 10 },
+    { "block": "pokecube_legends:infected_torch", "color": "#pastelPurple", "radius": 10 },
+    { "block": "pokecube_legends:infected_torch_wall", "color": "#pastelPurple", "radius": 10 },
     { "block": "pokecube_legends:heatran_spawn", "color": "#faintRed", "radius": 4 },
     { "block": "pokecube_legends:magma_bricks", "color": "#magmaRed", "radius": 4 },
     { "block": "pokecube_legends:magma_brick_stairs", "color": "#magmaRed", "radius": 4 },

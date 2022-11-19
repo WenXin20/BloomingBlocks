@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:block/template_torch_wall_lit",
+    "ambientocclusion": false,
+    "render_type": "cutout",
+    "textures": {
+    	"torch": "pokecube_legends:block/infected_torch",
+    	"overlay": "pokecube_legends:block/infected_torch_glow",
+        "particle": "#torch"
+    }
+}
