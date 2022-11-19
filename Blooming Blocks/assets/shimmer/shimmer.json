@@ -172,7 +172,9 @@
     { "block": "pokecube_legends:aquamarine_cluster" },
     { "block": "pokecube_legends:small_aquamarine_bud" },
     { "block": "pokecube_legends:medium_aquamarine_bud" },
-    { "block": "pokecube_legends:large_aquamarine_bud" }
+    { "block": "pokecube_legends:large_aquamarine_bud" },
+    { "block": "pokecube_legends:meteorite_molten_block" },
+    { "block": "pokecube_legends:meteorite_molten_layer" },
   ],
   "LightBlock": [
     { "block": "minecraft:beacon", "color": "#brightWhite", "radius": 15 },
@@ -420,6 +422,8 @@
     { "block": "pokecube_legends:magma_bricks", "color": "#magmaRed", "radius": 4 },
     { "block": "pokecube_legends:magma_brick_stairs", "color": "#magmaRed", "radius": 4 },
     { "block": "pokecube_legends:magma_brick_slab", "color": "#magmaRed", "radius": 4 },
+    { "block": "pokecube_legends:meteorite_molten_block", "color": "#magmaRed", "radius": 15 },
+    { "block": "pokecube_legends:meteorite_molten_layer", "color": "#magmaRed", "radius": 15 },
 	
     { "block": "supplementaries:blackstone_lamp", "state": { "lit": true }, "color": "#pastelOrange", "radius": 15 },
     { "block": "supplementaries:brass_lantern", "state": { "lit": true }, "color": "#faintOrange", "radius": 15 },
