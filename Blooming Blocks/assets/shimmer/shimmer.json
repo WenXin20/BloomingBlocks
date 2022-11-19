@@ -208,6 +208,7 @@
     { "block": "minecraft:cyan_candle", "state": { "candles": 3, "lit": true }, "color": "#faintOrange", "radius": 9 },
     { "block": "minecraft:cyan_candle", "state": { "candles": 4, "lit": true }, "color": "#faintOrange", "radius": 12 },
     { "block": "minecraft:cyan_candle_cake", "state": { "lit": true }, "color": "#faintOrange", "radius": 3 },
+    { "block": "minecraft:enchanting_table", "color": "#portalPurple", "radius": 8 },
     { "block": "minecraft:end_gateway", "color": "#brightWhite", "radius": 10 },
     { "block": "minecraft:end_portal", "color": "#brightWhite", "radius": 10 },
     { "block": "minecraft:end_rod", "color": "#faintWhite", "radius": 15 },
@@ -426,6 +427,8 @@
     { "block": "pokecube_legends:magma_brick_slab", "color": "#magmaRed", "radius": 4 },
     { "block": "pokecube_legends:meteorite_molten_block", "color": "#magmaRed", "radius": 15 },
     { "block": "pokecube_legends:meteorite_molten_layer", "color": "#magmaRed", "radius": 15 },
+	
+    { "block": "quark:matrix_enchanter", "color": "#portalPurple", "radius": 8 },
 	
     { "block": "supplementaries:blackstone_lamp", "color": "#pastelOrange", "radius": 15 },
     { "block": "supplementaries:brass_lantern", "state": { "lit": true }, "color": "#faintOrange", "radius": 15 },
