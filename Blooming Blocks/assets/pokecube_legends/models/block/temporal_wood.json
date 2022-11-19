@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_column_overlay",
+  "textures": {
+    "end": "pokecube_legends:block/temporal_log",
+    "side": "pokecube_legends:block/temporal_log",
+    "end_overlay": "pokecube_legends:block/temporal_log_glow",
+    "side_overlay": "pokecube_legends:block/temporal_log_glow"
+  }
+}
