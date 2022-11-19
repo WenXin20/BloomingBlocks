@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cross_overlay",
+  "render_type": "cutout",
+  "textures": {
+    "cross": "pokecube_legends:block/hanging_tendrils_eyes",
+    "overlay": "pokecube_legends:block/hanging_tendrils_eyes_glow"
+  }
+}
