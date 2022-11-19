@@ -1,9 +1,10 @@
 {
 	"credit": "Made with Blockbench",
+    "render_type": "cutout",
 	"textures": {
-		"6": "pokecube:block/tm_machine_front_glow",
 		"particle": "pokecube:block/tm_machine_front",
 		"front": "pokecube:block/tm_machine_front",
+		"front_glow": "pokecube:block/tm_machine_front_glow",
 		"details": "pokecube:block/tm_machine_details",
 		"details_glow": "pokecube:block/tm_machine_details_glow",
 		"top": "pokecube:block/tm_machine_top",
@@ -96,7 +97,7 @@
 			"faces": {
 				"north": {"uv": [0, 0, 8, 5], "texture": "#back"},
 				"east": {"uv": [8, 0, 9, 5], "texture": "#front"},
-				"south": {"uv": [0, 0, 8, 5], "texture": "#6"},
+				"south": {"uv": [0, 0, 8, 5], "texture": "#front_glow"},
 				"west": {"uv": [8, 0, 9, 5], "texture": "#front"},
 				"up": {"uv": [8, 4, 16, 5], "texture": "#front", "cullface": "up"}
 			}
