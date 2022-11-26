@@ -33,6 +33,8 @@
 	{ "particle": "minecraft:soul_fire_flame" },
 	{ "particle": "minecraft:vibration" },
 	
+	{ "particle": "buzzier_bees:small_soul_fire_flame" },
+	
 	{ "particle": "pokecube_legends:infected_fire_flame" },
 	{ "particle": "pokecube_legends:infected_spark" },
 	
@@ -66,6 +68,11 @@
     { "block": "minecraft:small_amethyst_bud" },
     { "block": "minecraft:soul_fire" },
     { "block": "minecraft:verdant_froglight" },
+	
+    { "block": "biomesoplenty:large_rose_quartz_bud" },
+    { "block": "biomesoplenty:medium_rose_quartz_bud" },
+    { "block": "biomesoplenty:rose_quartz_cluster" },
+    { "block": "biomesoplenty:small_rose_quartz_bud" },
 	
     { "block": "byg:boric_fire" },
 	
@@ -307,7 +314,7 @@
     { "block": "minecraft:soul_lantern", "color": "#soulBlue", "radius": 10 },
     { "block": "minecraft:soul_torch", "color": "#soulBlue", "radius": 10 },
     { "block": "minecraft:soul_wall_torch", "color": "#soulBlue", "radius": 10 },
-    { "block": "minecraft:torch", "color": "#faintOrange", "radius": 15 },
+    { "block": "minecraft:torch", "color": "#faintOrange", "radius": 14 },
     { "block": "minecraft:verdant_froglight", "color": "#verdant", "radius": 15 },
     { "block": "minecraft:wall_torch", "color": "#faintOrange", "radius": 15 },
     { "block": "minecraft:white_candle", "state": { "candles": 1, "lit": true }, "color": "#faintOrange", "radius": 3 },
@@ -665,7 +672,7 @@
     { "item_id": "minecraft:redstone_torch", "color": "#redstoneRed", "radius": 3 },
     { "item_id": "minecraft:soul_lantern", "r": 0, "g": 143, "b": 146, "a": 200, "radius": 10 },
     { "item_id": "minecraft:soul_torch", "r": 0, "g": 211, "b": 236, "a": 125, "radius": 10 },
-    { "item_id": "minecraft:torch", "r": 255, "g": 174, "b": 69, "a": 125, "radius": 15 },
+    { "item_id": "minecraft:torch", "r": 255, "g": 174, "b": 69, "a": 125, "radius": 14 },
 	
     { "item_id": "byg:boric_lantern", "r": 41, "g": 200, "b": 50, "a": 150, "radius": 15 },
     { "item_id": "byg:cryptic_lantern", "color": "#redstoneRed", "radius": 10 },
