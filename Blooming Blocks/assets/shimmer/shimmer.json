@@ -441,6 +441,8 @@
     { "block": "quark:blaze_lantern", "color": "#faintOrange", "radius": 15 },
     { "block": "quark:deepslate_furnace", "state": { "lit": true }, "color": "#faintOrange", "radius": 12 },
     { "block": "quark:matrix_enchanter", "color": "#portalPurple", "radius": 8 },
+    { "block": "quark:paper_lantern", "color": "#faintOrange", "radius": 15 },
+    { "block": "quark:paper_lantern_sakura", "color": "#faintOrange", "radius": 15 },
 	
     { "block": "supplementaries:blackstone_lamp", "color": "#pastelOrange", "radius": 15 },
     { "block": "supplementaries:brass_lantern", "state": { "lit": true }, "color": "#faintOrange", "radius": 15 },
