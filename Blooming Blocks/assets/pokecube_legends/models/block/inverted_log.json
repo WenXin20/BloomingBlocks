@@ -3,7 +3,7 @@
    "textures": {
 	"end":  "pokecube_legends:block/inverted_log_top",
     "side": "pokecube_legends:block/inverted_log",
-	"end_overlay":  "minecraft:block/empty",
-    "side_overlay": "pokecube_legends:block/inverted_log_glow"
+	"end_overlay":  "pokecube_legends:block/inverted_top_empty",
+    "side_overlay": "pokecube_legends:block/inverted_glow"
    }
 }
