@@ -14,5 +14,8 @@
         "extra": {
             "light": 15
         }
-	}
+	},
+    "shimmer": {
+        "bloom": true
+    }
 }
