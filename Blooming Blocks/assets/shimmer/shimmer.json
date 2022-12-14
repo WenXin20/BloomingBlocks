@@ -154,6 +154,7 @@
     { "block": "framedblocks:framed_vertical_stairs", "state": { "glowing": true } },
     { "block": "framedblocks:framed_wall_board", "state": { "glowing": true } },
 	
+    { "block": "quark:blaze_lantern" },
     { "block": "quark:glow_lichen_growth" },
     { "block": "quark:glow_shroom_block" },
 	
@@ -435,6 +436,10 @@
     { "block": "pokecube_legends:meteorite_molten_block", "color": "#magmaRed", "radius": 15 },
     { "block": "pokecube_legends:meteorite_molten_layer", "color": "#magmaRed", "radius": 15 },
 	
+    { "block": "quark:blackstone_furnace", "state": { "lit": true, "soul": false }, "color": "#faintOrange", "radius": 12 },
+    { "block": "quark:blackstone_furnace", "state": { "lit": true, "soul": true }, "color": "#soulBlue", "radius": 12 },
+    { "block": "quark:blaze_lantern", "color": "#faintOrange", "radius": 15 },
+    { "block": "quark:deepslate_furnace", "state": { "lit": true }, "color": "#faintOrange", "radius": 12 },
     { "block": "quark:matrix_enchanter", "color": "#portalPurple", "radius": 8 },
 	
     { "block": "supplementaries:blackstone_lamp", "color": "#pastelOrange", "radius": 15 },

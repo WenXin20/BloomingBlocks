@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/orientable_lit",
+  "textures": {
+    "top": "quark:block/blackstone_furnace_top",
+    "top_overlay": "minecraft:block/empty",
+    "front": "quark:block/blackstone_furnace_front_on_soul",
+    "front_overlay": "quark:block/blackstone_furnace_front_on_soul_glow",
+    "side": "quark:block/blackstone_furnace_side",
+    "side_overlay": "minecraft:block/empty"
+  }
+}
