@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all_overlay",
+  "textures": {
+    "all": "minecraft:block/redstone_lamp_on",
+    "overlay": "minecraft:block/redstone_lamp_on_glow"
+  }
+}
