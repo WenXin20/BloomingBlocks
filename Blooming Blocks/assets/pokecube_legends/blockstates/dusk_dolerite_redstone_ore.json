@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "pokecube_legends:block/dusk_dolerite_redstone_ore"
+    },
+    "lit=true": {
+      "model": "pokecube_legends:block/dusk_dolerite_redstone_ore_lit"
+    }
+  }
+}

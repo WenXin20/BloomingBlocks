@@ -1,0 +1,7 @@
+{
+   "parent": "block/cube_all_overlay",
+   "textures": {
+	"all": "pokecube_legends:block/ultra_redstone_ore",
+	"overlay": "block/redstone_ore_glow"
+   }
+}
