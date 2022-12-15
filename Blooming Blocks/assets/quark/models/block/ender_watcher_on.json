@@ -1,0 +1,7 @@
+{
+	"parent": "block/cube_all_overlay",
+	"textures": {
+		"all": "quark:block/ender_watcher_on",
+		"overlay": "quark:block/ender_watcher_on_glow"
+	}
+}

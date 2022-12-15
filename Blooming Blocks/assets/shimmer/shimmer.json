@@ -475,6 +475,8 @@
     { "block": "quark:orange_corundum_cluster", "color": "#corundumOrange", "radius": 11 },
     { "block": "quark:paper_lantern", "color": "#faintOrange", "radius": 15 },
     { "block": "quark:paper_lantern_sakura", "color": "#faintOrange", "radius": 15 },
+    { "block": "quark:stone_lamp", "color": "#faintOrange", "radius": 15 },
+    { "block": "quark:stone_brick_lamp", "color": "#faintOrange", "radius": 15 },
     { "block": "quark:red_corundum_cluster", "color": "#corundumRed", "radius": 11 },
     { "block": "quark:violet_corundum_cluster", "color": "#corundumViolet", "radius": 11 },
     { "block": "quark:white_corundum_cluster", "color": "#corundumWhite", "radius": 11 },
