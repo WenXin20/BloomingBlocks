@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_column_overlay",
+    "textures": {
+        "end": "minecraft:block/stone",
+        "side": "quark:block/stone_lamp",
+        "end_overlay": "minecraft:block/empty",
+        "side_overlay": "quark:block/stone_lamp_glow"
+    }
+}
