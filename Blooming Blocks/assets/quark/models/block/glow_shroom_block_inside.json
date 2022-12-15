@@ -1,0 +1,23 @@
+{
+    "ambientocclusion": false,
+    "render_type": "cutout",
+    "textures": {
+        "texture": "quark:block/glow_shroom_block_inside",
+        "overlay": "quark:block/glow_shroom_block_inside_glow",
+        "particle": "quark:block/glow_shroom_block_inside"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 0 ],
+            "faces": {
+                "north": { "texture": "#texture", "cullface":"north" }
+            }
+        },
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 0 ],
+            "faces": {
+                "north": { "texture": "#overlay", "cullface":"north" }
+            }
+        }
+    ]
+}
