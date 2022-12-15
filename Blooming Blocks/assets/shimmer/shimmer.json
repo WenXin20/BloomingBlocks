@@ -30,9 +30,15 @@
 	"verdant": { "r": 56, "g": 100, "b": 43, "a": 50 }
   },
   "Bloom": [
+	{ "particle": "minecraft:dragon_breath" },
 	{ "particle": "minecraft:dripping_dripstone_lava" },
 	{ "particle": "minecraft:dripping_lava" },
 	{ "particle": "minecraft:electric_spark" },
+	{ "particle": "minecraft:enchant" },
+	{ "particle": "minecraft:enchanted_hit" },
+	{ "particle": "minecraft:end_rod" },
+	{ "particle": "minecraft:glow" },
+	{ "particle": "minecraft:glow_squid_ink" },
 	{ "particle": "minecraft:landing_lava" },
 	{ "particle": "minecraft:lava" },
 	{ "particle": "minecraft:sculk_soul" },
