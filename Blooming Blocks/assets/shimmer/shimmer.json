@@ -465,6 +465,7 @@
     { "block": "quark:blaze_lantern", "color": "#faintOrange", "radius": 15 },
     { "block": "quark:blue_corundum_cluster", "color": "#corundumBlue", "radius": 11 },
     { "block": "quark:deepslate_furnace", "state": { "lit": true }, "color": "#faintOrange", "radius": 12 },
+    { "block": "quark:duskbound_lantern", "color": "#portalPurple", "radius": 15 },
     { "block": "quark:green_corundum_cluster", "color": "#corundumGreen", "radius": 11 },
     { "block": "quark:indigo_corundum_cluster", "color": "#corundumIndigo", "radius": 11 },
     { "block": "quark:matrix_enchanter", "color": "#portalPurple", "radius": 8 },
