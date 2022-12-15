@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross_lit",
+  "textures": {
+    "cross": "quark:block/glow_shroom_big",
+    "overlay": "quark:block/glow_shroom_big_glow"
+  }
+}

@@ -171,7 +171,6 @@
 	
     { "block": "quark:blaze_lantern" },
     { "block": "quark:glow_lichen_growth" },
-    { "block": "quark:glow_shroom_block" },
     { "block": "quark:black_corundum_cluster" },
     { "block": "quark:blue_corundum_cluster" },
     { "block": "quark:green_corundum_cluster" },
