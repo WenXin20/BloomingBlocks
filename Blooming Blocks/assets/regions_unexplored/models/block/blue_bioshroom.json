@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross_lit",
+  "textures": {
+    "cross": "regions_unexplored:block/blue_bioshroom",
+    "overlay": "regions_unexplored:block/blue_bioshroom_glow"
+  },
+  "render_type": "cutout"
+}
