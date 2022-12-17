@@ -242,6 +242,7 @@
     { "block": "minecraft:cyan_candle", "state": { "candles": 3, "lit": true }, "color": "#faintOrange", "radius": 9 },
     { "block": "minecraft:cyan_candle", "state": { "candles": 4, "lit": true }, "color": "#faintOrange", "radius": 12 },
     { "block": "minecraft:cyan_candle_cake", "state": { "lit": true }, "color": "#faintOrange", "radius": 3 },
+    { "block": "minecraft:deepslate_redstone_ore", "state": { "lit": true }, "color": "#redstoneRed", "radius": 9 },
     { "block": "minecraft:enchanting_table", "color": "#portalPurple", "radius": 8 },
     { "block": "minecraft:end_gateway", "color": "#brightWhite", "radius": 10 },
     { "block": "minecraft:end_portal", "color": "#brightWhite", "radius": 10 },
@@ -323,6 +324,7 @@
     { "block": "minecraft:red_candle", "state": { "candles": 4, "lit": true }, "color": "#faintOrange", "radius": 12 },
     { "block": "minecraft:red_candle_cake", "state": { "lit": true }, "color": "#faintOrange", "radius": 3 },
     { "block": "minecraft:redstone_lamp", "state": { "lit": true }, "color": "#faintOrange", "radius": 15 },
+    { "block": "minecraft:redstone_ore", "state": { "lit": true }, "color": "#redstoneRed", "radius": 9 },
     { "block": "minecraft:redstone_torch", "state": { "lit": true }, "color": "#redstoneRed", "radius": 7 },
     { "block": "minecraft:redstone_wall_torch", "state": { "lit": true }, "color": "#redstoneRed", "radius": 7 },
     { "block": "minecraft:respawn_anchor", "state": { "charges": 1 }, "color": "#portalPurple", "radius": 2 },
@@ -358,6 +360,7 @@
     { "block": "byg:boric_fire", "color": "#boricGreen", "radius": 15 },
     { "block": "byg:boric_lantern", "color": "#boricGreen", "radius": 15 },
     { "block": "byg:cryptic_lantern", "color": "#redstoneRed", "radius": 15 },
+    { "block": "byg:cryptic_redstone_ore", "state": { "lit": true }, "color": "#redstoneRed", "radius": 13 },
     { "block": "byg:glowstone_lantern", "color": "#glowstoneOrange", "radius": 15 },
     { "block": "byg:therium_lantern", "color": "#faintBlue", "radius": 15 },
 	
@@ -450,6 +453,7 @@
     { "block": "framedblocks:framed_wall_board", "state": { "glowing": true }, "color": "#brightWhite", "radius": 15 },
 	
     { "block": "pokecube_legends:distortic_glowstone", "r": 0, "g": 0, "b": 255, "a": 255, "radius": 15 },
+    { "block": "pokecube_legends:dusk_dolerite_redstone_ore", "state": { "lit": true }, "color": "#redstoneRed", "radius": 9 },
     { "block": "pokecube_legends:infected_campfire", "state": { "lit": true }, "color": "#pastelPurple", "radius": 10 },
     { "block": "pokecube_legends:infected_fire", "color": "#pastelPurple", "radius": 10 },
     { "block": "pokecube_legends:infected_lantern", "color": "#pastelPurple", "radius": 10 },
@@ -461,6 +465,7 @@
     { "block": "pokecube_legends:magma_brick_slab", "color": "#magmaRed", "radius": 4 },
     { "block": "pokecube_legends:meteorite_molten_block", "color": "#magmaRed", "radius": 15 },
     { "block": "pokecube_legends:meteorite_molten_layer", "color": "#magmaRed", "radius": 15 },
+    { "block": "pokecube_legends:ultra_redstone_ore", "state": { "lit": true }, "color": "#redstoneRed", "radius": 9 },
 	
     { "block": "quark:black_corundum_cluster", "color": "#corundumBlack", "radius": 11 },
     { "block": "quark:blackstone_furnace", "state": { "lit": true, "soul": false }, "color": "#faintOrange", "radius": 12 },
