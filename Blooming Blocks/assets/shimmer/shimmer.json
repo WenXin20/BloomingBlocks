@@ -368,6 +368,11 @@
     { "block": "ceilingtorch:torch", "color": "#faintOrange", "radius": 15 },
     { "block": "ceilingtorch:soul_torch", "color": "#soulBlue", "radius": 10 },
 	
+    { "block": "darkerdepths:aridrock_redstone_ore", "color": "#redstoneRed", "radius": 9 },
+    { "block": "darkerdepths:limestone_redstone_ore", "color": "#redstoneRed", "radius": 9 },
+	
+    { "block": "deeperdarker:sculk_stone_redstone_ore", "state": { "lit": true }, "color": "#redstoneRed", "radius": 9 },
+	
     { "block": "framedblocks:framed_redstone_torch", "state": { "lit": true }, "color": "#redstoneRed", "radius": 7 },
     { "block": "framedblocks:framed_redstone_wall_torch", "state": { "lit": true }, "color": "#redstoneRed", "radius": 7 },
     { "block": "framedblocks:framed_soul_torch", "color": "#soulBlue", "radius": 10 },
