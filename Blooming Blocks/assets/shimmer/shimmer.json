@@ -170,6 +170,11 @@
     { "block": "framedblocks:framed_vertical_stairs", "state": { "glowing": true } },
     { "block": "framedblocks:framed_wall_board", "state": { "glowing": true } },
 	
+    { "block": "galosphere:allurite_cluster" },
+    { "block": "galosphere:glow_ink_clumps" },
+    { "block": "galosphere:lichen_moss", "state": { "lit": true } },
+    { "block": "galosphere:lumiere_cluster" },
+	
     { "block": "quark:blaze_lantern" },
     { "block": "quark:glow_lichen_growth" },
     { "block": "quark:black_corundum_cluster" },
@@ -456,6 +461,12 @@
     { "block": "framedblocks:framed_vertical_double_stairs", "state": { "glowing": true }, "color": "#brightWhite", "radius": 15 },
     { "block": "framedblocks:framed_vertical_stairs", "state": { "glowing": true }, "color": "#brightWhite", "radius": 15 },
     { "block": "framedblocks:framed_wall_board", "state": { "glowing": true }, "color": "#brightWhite", "radius": 15 },
+	
+    { "block": "galosphere:allurite_cluster", "color": "#soulBlue", "radius": 7 },
+    { "block": "galosphere:chadelier", "color": "#brightWhite", "radius": 15 },
+    { "block": "galosphere:glow_ink_clumps", "color": "#soulBlue", "radius": 2 },
+    { "block": "galosphere:lichen_moss", "color": "#soulBlue", "radius": 3 },
+    { "block": "galosphere:lumiere_cluster", "color": "#glowstoneOrange", "radius": 7 },
 	
     { "block": "pokecube_legends:distortic_glowstone", "r": 0, "g": 0, "b": 255, "a": 255, "radius": 15 },
     { "block": "pokecube_legends:dusk_dolerite_redstone_ore", "state": { "lit": true }, "color": "#redstoneRed", "radius": 9 },
