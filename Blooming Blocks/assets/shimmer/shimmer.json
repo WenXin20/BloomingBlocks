@@ -92,6 +92,8 @@
 	
     { "block": "byg:boric_fire" },
 	
+    { "block": "darkerdepths:glowshroom" },
+	
     { "block": "framedblocks:framed_activator_rail_slope", "state": { "glowing": true } },
     { "block": "framedblocks:framed_bouncy_cube", "state": { "glowing": true } },
     { "block": "framedblocks:framed_corner_slope", "state": { "glowing": true } },
@@ -187,6 +189,7 @@
     { "block": "quark:white_corundum_cluster" },
     { "block": "quark:yellow_corundum_cluster" },
 	
+    { "block": "regions_unexplored:hanging_prismarite" },
     { "block": "regions_unexplored:prismarite_cluster" },
 	
     { "block": "supplementaries:redstone_illuminator", "state": { "power": 0 } },
@@ -213,7 +216,9 @@
     { "block": "pokecube_legends:medium_aquamarine_bud" },
     { "block": "pokecube_legends:meteorite_molten_block" },
     { "block": "pokecube_legends:small_aquamarine_bud" },
-    { "block": "pokecube_legends:meteorite_molten_layer" }
+    { "block": "pokecube_legends:meteorite_molten_layer" },
+	
+    { "fluid": "minecraft:lava" }
   ],
   "LightBlock": [
     { "block": "minecraft:beacon", "color": "#brightWhite", "radius": 15 },
