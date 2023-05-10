@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/template_two_candles_lit",
-  "render_type": "cutout",
+  "render_type": "cutout_mipped",
   "textures": {
     "all": "minecraft:block/blue_candle_lit",
     "particle": "minecraft:block/blue_candle_lit"

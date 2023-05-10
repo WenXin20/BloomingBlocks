@@ -1,6 +1,6 @@
 {
     "parent": "block/block",
-    "render_type": "cutout",
+    "render_type": "cutout_mipped",
     "display": {
         "head": {
             "translation": [ 0, 10.5, 0 ]

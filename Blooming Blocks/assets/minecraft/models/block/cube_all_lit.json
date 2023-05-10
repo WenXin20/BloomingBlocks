@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-    "render_type": "cutout",
+    "render_type": "cutout_mipped",
 	"parent": "block/cube",
 	"ambientocclusion": false,
 	"textures": {

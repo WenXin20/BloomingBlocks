@@ -1,6 +1,6 @@
 {
     "parent": "block/block",
-    "render_type": "cutout",
+    "render_type": "cutout_mipped",
     "textures": {
         "bottom": "block/observer_back",
         "side": "block/observer_side",

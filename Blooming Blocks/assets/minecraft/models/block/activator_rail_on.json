@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/rail_flat_lit",
-  "render_type": "cutout",
+  "render_type": "cutout_mipped",
   "textures": {
     "rail": "minecraft:block/activator_rail_on",
     "overlay": "minecraft:block/activator_rail_on_glow"

@@ -1,6 +1,6 @@
 {
 	"parent":"block/cube_column",
-    "render_type": "cutout",
+    "render_type": "cutout_mipped",
 	"textures":{
 		"end":"block/crimson_stem_top",
 		"side":"block/crimson_stem",

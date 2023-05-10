@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_bottom_top",
-  "render_type": "cutout",
+  "render_type": "cutout_mipped",
   "textures": {
     "top": "minecraft:block/respawn_anchor_top",
     "bottom": "minecraft:block/respawn_anchor_bottom",

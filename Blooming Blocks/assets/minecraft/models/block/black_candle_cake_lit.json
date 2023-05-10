@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/template_cake_with_candle_lit",
-  "render_type": "cutout",
+  "render_type": "cutout_mipped",
   "textures": {
     "candle": "minecraft:block/black_candle_lit",
     "bottom": "minecraft:block/cake_bottom",

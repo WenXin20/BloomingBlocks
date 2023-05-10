@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_directional_overlay",
-    "render_type": "cutout",
+    "render_type": "cutout_mipped",
     "textures": {
         "particle": "#back",
         "down": "#side",
