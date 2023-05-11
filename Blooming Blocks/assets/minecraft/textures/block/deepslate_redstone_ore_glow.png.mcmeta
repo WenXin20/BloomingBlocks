@@ -4,7 +4,7 @@
     },
 	"ctm":{
 		"ctm_version": 1,
-		"layer":"CUTOUT",
+		"layer":"CUTOUT_MIPPED",
         "extra": {
             "light": 15
         }
