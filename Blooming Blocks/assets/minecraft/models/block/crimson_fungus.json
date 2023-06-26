@@ -1,5 +1,6 @@
 {
   "parent": "minecraft:block/cross_lit",
+  "render_type": "cutout_mipped",
   "textures": {
     "cross": "minecraft:block/crimson_fungus",
     "overlay": "minecraft:block/crimson_fungus_glow"

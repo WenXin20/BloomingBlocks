@@ -1,11 +1,4 @@
 {
-	"ctm":{
-		"ctm_version": 1,
-		"layer":"CUTOUT_MIPPED",
-        "extra": {
-            "light": 15
-        }
-	},
     "shimmer": {
         "bloom": true
     }
