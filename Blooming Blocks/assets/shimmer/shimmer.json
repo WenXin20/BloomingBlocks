@@ -28,7 +28,9 @@
 	"shroomRed": { "r": 255, "g": 80, "b": 50, "a": 50 },
 	"soulBlue": { "r": 0, "g": 140, "b": 236, "a": 150 },
 	"soulGreen": { "r": 0, "g": 211, "b": 200, "a": 50 },
-	"verdant": { "r": 56, "g": 100, "b": 43, "a": 50 }
+	"verdant": { "r": 56, "g": 100, "b": 43, "a": 50 },
+	"livingFlame": { "r": 123, "g": 150, "b": 50, "a": 150 },
+	"amethyst": { "r": 138, "g": 104, "b": 192, "a": 50 }
   },
   "Bloom": [
 	{ "particle": "minecraft:dragon_breath" },
@@ -55,6 +57,8 @@
 	{ "particle": "pokecube_legends:infected_spark" },
 	
 	{ "particle": "supplementaries:green_flame" },
+	
+	{ "particle": "brazier:flame" },
 	
     { "block": "minecraft:amethyst_cluster" },
     { "block": "minecraft:fire" },
@@ -253,7 +257,7 @@
     { "block": "minecraft:cyan_candle", "state": { "candles": 4, "lit": true }, "color": "#faintOrange", "radius": 12 },
     { "block": "minecraft:cyan_candle_cake", "state": { "lit": true }, "color": "#faintOrange", "radius": 3 },
     { "block": "minecraft:deepslate_redstone_ore", "state": { "lit": true }, "color": "#redstoneRed", "radius": 9 },
-    { "block": "minecraft:enchanting_table", "color": "#portalPurple", "radius": 8 },
+    { "block": "minecraft:enchanting_table", "color": "#brightWhite", "radius": 8 },
     { "block": "minecraft:end_gateway", "color": "#brightWhite", "radius": 10 },
     { "block": "minecraft:end_portal", "color": "#brightWhite", "radius": 10 },
     { "block": "minecraft:end_rod", "color": "#faintWhite", "radius": 15 },
@@ -366,6 +370,10 @@
     { "block": "minecraft:yellow_candle", "state": { "candles": 3, "lit": true }, "color": "#faintOrange", "radius": 9 },
     { "block": "minecraft:yellow_candle", "state": { "candles": 4, "lit": true }, "color": "#faintOrange", "radius": 12 },
     { "block": "minecraft:yellow_candle_cake", "state": { "lit": true }, "color": "#faintOrange", "radius": 3 },
+    { "block": "minecraft:small_amethyst_bud", "color": "#amethyst", "radius": 1 },
+    { "block": "minecraft:medium_amethyst_bud", "color": "#amethyst", "radius": 2 },
+    { "block": "minecraft:large_amethyst_bud", "color": "#amethyst", "radius": 4 },
+    { "block": "minecraft:amethyst_cluster", "color": "#amethyst", "radius": 5 },
 	
     { "block": "byg:boric_fire", "color": "#boricGreen", "radius": 15 },
     { "block": "byg:boric_lantern", "color": "#boricGreen", "radius": 15 },
@@ -500,7 +508,7 @@
     { "block": "quark:glow_shroom_block", "color": "#faintWhite", "radius": 12 },
     { "block": "quark:green_corundum_cluster", "color": "#corundumGreen", "radius": 11 },
     { "block": "quark:indigo_corundum_cluster", "color": "#corundumIndigo", "radius": 11 },
-    { "block": "quark:matrix_enchanter", "color": "#portalPurple", "radius": 8 },
+    { "block": "quark:matrix_enchanter", "color": "#brightWhite", "radius": 8 },
     { "block": "quark:orange_corundum_cluster", "color": "#corundumOrange", "radius": 11 },
     { "block": "quark:paper_lantern", "color": "#faintOrange", "radius": 15 },
     { "block": "quark:paper_lantern_sakura", "color": "#faintOrange", "radius": 15 },
@@ -745,13 +753,18 @@
     { "block": "tinted:turquoise_candle", "state": { "candles": 2, "lit": true }, "color": "#faintOrange", "radius": 6 },
     { "block": "tinted:turquoise_candle", "state": { "candles": 3, "lit": true }, "color": "#faintOrange", "radius": 9 },
     { "block": "tinted:turquoise_candle", "state": { "candles": 4, "lit": true }, "color": "#faintOrange", "radius": 12 },
-    { "block": "tinted:turquoise_candle_cake", "state": { "lit": true }, "color": "#faintOrange", "radius": 3 }
+    { "block": "tinted:turquoise_candle_cake", "state": { "lit": true }, "color": "#faintOrange", "radius": 3 },
+    
+    { "block": "brazier:brazier", "state": { "lit": true }, "color": "#livingFlame", "radius": 15 },
+	{ "block": "brazier:living_lantern", "color": "#livingFlame", "radius": 15 },
+	{ "block": "brazier:living_torch", "color": "#livingFlame", "radius": 14 },
+	{ "block": "brazier:living_wall_torch", "color": "#livingFlame", "radius": 14 }
   ],
   "LightItem": [
-    { "item_id": "minecraft:lantern", "r": 255, "g": 174, "b": 69, "a": 125, "radius": 10 },
-    { "item_id": "minecraft:redstone_torch", "color": "#redstoneRed", "radius": 3 },
-    { "item_id": "minecraft:soul_lantern", "r": 0, "g": 143, "b": 146, "a": 200, "radius": 10 },
-    { "item_id": "minecraft:soul_torch", "r": 0, "g": 211, "b": 236, "a": 125, "radius": 10 },
+    { "item_id": "minecraft:lantern", "r": 255, "g": 174, "b": 69, "a": 125, "radius": 15 },
+    { "item_id": "minecraft:redstone_torch", "color": "#redstoneRed", "radius": 7 },
+    { "item_id": "minecraft:soul_lantern", "r": 0, "g": 143, "b": 146, "a": 200, "radius": 15 },
+    { "item_id": "minecraft:soul_torch", "r": 0, "g": 211, "b": 236, "a": 125, "radius": 15 },
     { "item_id": "minecraft:torch", "r": 255, "g": 174, "b": 69, "a": 125, "radius": 14 },
 	
     { "item_id": "byg:boric_lantern", "r": 41, "g": 200, "b": 50, "a": 150, "radius": 15 },
@@ -759,8 +772,8 @@
     { "item_id": "byg:glowstone_lantern", "r": 255, "g": 174, "b": 0, "a": 125, "radius": 15 },
     { "item_id": "byg:therium_lantern", "r": 0, "g": 143, "b": 50, "a": 200, "radius": 15 },
 	
-    { "item_id": "framedblocks:framed_redstone_torch", "color": "#redstoneRed", "radius": 3 },
-    { "item_id": "framedblocks:framed_soul_torch", "r": 0, "g": 211, "b": 236, "a": 125, "radius": 10 },
+    { "item_id": "framedblocks:framed_redstone_torch", "color": "#redstoneRed", "radius": 7 },
+    { "item_id": "framedblocks:framed_soul_torch", "r": 0, "g": 211, "b": 236, "a": 125, "radius": 15 },
     { "item_id": "framedblocks:framed_torch", "r": 255, "g": 174, "b": 69, "a": 125, "radius": 15 },
 	
     { "item_id": "pokecube_legends:infected_lantern", "r": 135, "g": 100, "b": 255, "a": 255, "radius": 10 },
@@ -769,6 +782,10 @@
     { "item_id": "supplementaries:crimson_lantern", "r": 255, "g": 174, "b": 69, "a": 125, "radius": 15 },
     { "item_id": "supplementaries:copper_lantern", "r": 255, "g": 174, "b": 69, "a": 125, "radius": 15 },
     { "item_id": "supplementaries:brass_lantern", "r": 255, "g": 174, "b": 69, "a": 125, "radius": 15 },
-    { "item_id": "supplementaries:silver_lantern", "r": 115, "g": 69, "b": 36, "a": 200, "radius": 15 }
+    { "item_id": "supplementaries:silver_lantern", "r": 115, "g": 69, "b": 36, "a": 200, "radius": 15 },
+    
+    { "item_id": "brazier:living_flame", "color": "#livingFlame", "radius": 15 },
+    { "item_id": "brazier:living_lantern", "color": "#livingFlame", "radius": 15 },
+	{ "item_id": "brazier:living_torch", "color": "#livingFlame", "radius": 14 }
   ]
 }

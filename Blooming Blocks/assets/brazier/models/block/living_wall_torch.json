@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_torch_wall_lit",
+  "textures": {
+    "torch": "brazier:block/living_torch",
+	"overlay": "brazier:block/living_torch_glow"
+  }
+}
