@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom_lit",
+  "textures": {
+    "bottom": "farmersdelight:block/stove_bottom",
+    "bottom_overlay": "minecraft:block/empty",
+    "front": "farmersdelight:block/stove_front_on",
+    "front_overlay": "farmersdelight:block/stove_front_on_glow",
+    "side": "farmersdelight:block/stove_side",
+    "side_overlay": "minecraft:block/empty",
+    "top": "farmersdelight:block/stove_top_on",
+    "top_overlay": "farmersdelight:block/stove_top_on_glow"
+  }
+}
